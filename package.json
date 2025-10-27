@@ -1,0 +1,25 @@
+{
+  "name": "11ty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatimaZelay/11TY.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/FatimaZelay/11TY/issues"
+  },
+  "homepage": "https://github.com/FatimaZelay/11TY#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
